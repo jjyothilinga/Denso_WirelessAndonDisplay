@@ -1,0 +1,114 @@
+wait 1 sec
+AA FA 02 81 00 79 BB
+
+wait 1 sec
+AA FA 02 83 00 7B BB
+
+wait 1 sec
+AA FA 02 83 00 7B BB
+
+
+wait 1 sec
+AA FA 02 83 00 7B BB
+
+wait 1 sec
+AA FA 02 83 00 7B BB
+
+wait 1 sec
+AA FA 02 83 00 7B BB
+
+
+
+wait 1 sec
+aa FA 01 80 7B bb
+
+wait 1 sec
+aa FA 01 80 7B bb
+
+wait 1 sec
+aa FA 01 80 7B bb
+
+
+wait 1 sec
+aa FA 01 80 7B bb
+
+wait 1 sec
+aa FA 01 80 7B bb
+
+wait 1 sec
+aa FA 01 80 7B bb
+
+
+wait 1 sec
+aa FA 01 80 7B bb
+
+wait 1 sec
+aa FA 01 80 7B bb
+
+wait 1 sec
+aa FA 01 80 7B bb
+
+
+wait 1 sec
+aa FA 01 80 7B bb
+
+wait 1 sec
+aa FA 01 80 7B bb
+
+wait 1 sec
+aa FA 01 80 7B bb
+
+
+
+wait 1 sec
+aa FA 01 80 7B bb
+
+wait 1 sec
+aa FA 01 80 7B bb
+
+wait 1 sec
+aa FA 01 80 7B bb
+
+
+
+wait 1 sec
+aa FA 01 80 7B bb
+
+wait 1 sec
+aa FA 01 80 7B bb
+
+wait 1 sec
+aa FA 01 80 7B bb
+
+
+
+wait 1 sec
+aa FA 01 80 7B bb
+
+wait 1 sec
+aa FA 01 80 7B bb
+
+wait 1 sec
+aa FA 01 80 7B bb
+
+
+
+wait 1 sec
+aa FA 01 80 7B bb
+
+wait 1 sec
+aa FA 01 80 7B bb
+
+wait 1 sec
+aa FA 01 80 7B bb
+
+
+wait 1 sec
+aa FA 01 80 7B bb
+
+wait 1 sec
+aa FA 01 80 7B bb
+
+wait 1 sec
+aa FA 01 80 7B bb
+
