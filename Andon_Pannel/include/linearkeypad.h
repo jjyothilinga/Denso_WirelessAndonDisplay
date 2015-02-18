@@ -98,6 +98,26 @@ typedef enum KEY
 	KEY5,
 	KEY6,
 	KEY7,
+	KEY8,
+	KEY9,
+	KEY10,
+	KEY11,
+	KEY12,
+	KEY13,
+	KEY14,
+	KEY15,
+	KEY16,
+	KEY17,
+	KEY18,
+	KEY19,
+	KEY20,
+	KEY21,
+	KEY22,
+	KEY23,
+	KEY24,
+	KEY25,
+	KEY26,
+
 
 	MAX_KEYS
 }KEY;

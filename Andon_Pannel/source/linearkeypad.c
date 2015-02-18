@@ -303,6 +303,26 @@ static void readKeyPadPort()
 	portValue[5] = KEYPAD_PORT_5;
 	portValue[6] = KEYPAD_PORT_6;	
 	portValue[7] = KEYPAD_PORT_7;
+	portValue[8] = KEYPAD_PORT_8;
+	portValue[9] = KEYPAD_PORT_9;
+	portValue[10] = KEYPAD_PORT_10;
+	portValue[11] = KEYPAD_PORT_11;
+	portValue[12] = KEYPAD_PORT_12;
+	portValue[13] = KEYPAD_PORT_13;
+	portValue[14] = KEYPAD_PORT_14;	
+	portValue[15] = KEYPAD_PORT_15;
+	portValue[16] = KEYPAD_PORT_16;
+	portValue[17] = KEYPAD_PORT_17;
+	portValue[18] = KEYPAD_PORT_18;
+	portValue[19] = KEYPAD_PORT_19;
+	portValue[20] = KEYPAD_PORT_20;
+	portValue[21] = KEYPAD_PORT_21;
+	portValue[22] = KEYPAD_PORT_22;	
+	portValue[23] = KEYPAD_PORT_23;
+	portValue[24] = KEYPAD_PORT_24;
+	portValue[25] = KEYPAD_PORT_25;
+	portValue[26] = KEYPAD_PORT_26;	
+
 
 }
 
